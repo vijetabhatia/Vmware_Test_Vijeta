@@ -1,6 +1,6 @@
-The project the following tasks
-- Additon of API
-- Difference of API
+The project does the following tasks
+- Additon API
+- Difference API
 
 Technology used
 
